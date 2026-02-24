@@ -54,7 +54,7 @@ Układ Guanella 4:1 działa na zasadzie **równoległego połączenia wejść i 
 
 Odpowiednie przylutowanie końcówek drutów we właściwe pola ma krytyczne znaczenie do działania baluna.
 
-![PCB Front](images/2D_ocfd_pota_front.png)
+![PCB Front](images/2D_ocfd_pota_front_small.jpg)
 
 Na płytce jest zastosowany opis w postaci:
 * **T1A1** - Rdzeń T1, drut A, koniec 1
@@ -65,7 +65,7 @@ Na płytce jest zastosowany opis w postaci:
 Z tyłu na płytcę znajdują się dwa pady, do których należy przylutować końce promiennika. Przy nich też są otwory przez, które należy promiennik przewlec.
 Z uwagi na symetrię baluna, nie ma znaczenia, które ramię OCFD podłączysz do lewego, a które do prawego padu.
 
-![PCB Rear](images/2D_ocfd_pota_rear.png)
+![PCB Rear](images/2D_ocfd_pota_rear_small.jpg)
 
 Przeciągnij opaski zaciskowe przez otwory w PCB i solidnie unieruchom rdzenie.
 Zwoje nie powinny się przesuwać. Jeśli nie wystarczy opaska zaciskowa użyj jeszcze kleju lub lakieru.
