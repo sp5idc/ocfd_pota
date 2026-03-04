@@ -91,6 +91,13 @@ Jeśli chcesz wyprodukować tę płytkę (np. w serwisie JLCPCB, PCBWay), postę
 2. Prześlij ten plik na stronie wybranego producenta PCB.
 3. Wybierz standardowe ustawienia grubości laminatu (**1.6 mm**) oraz standardową grubość miedzi (**1 oz** / 35 µm). Płytka posiada odpowiednio dobrane ścieżki i pola lutownicze.
 
+## Historia wersji (Changelog)
+* **v0.2** (2026-03-04)
+  * Zmiana lokalizacji pól lutowniczych dla uzwojeń rdzeni w celu lepszego i wygodniejszego ułożenia drutu.
+  * Dodanie pola kontaktowego i powiększenie otworu na promiennik anteny do rozmiaru M3. Umożliwia to trwałe i wygodne mocowanie promiennika za pomocą konektora oczkowego, śruby M3 i nakrętki motylkowej.
+* **v0.1** (2026-02-24)
+  * Pierwsze publiczne wydanie projektu.
+
 ## Licencja (License)
 Copyright 2026 Maciej Chmielewski SP5IDC
 
