@@ -93,6 +93,7 @@ If you want to get this board manufactured (e.g., at JLCPCB, PCBWay), follow the
 
 ## Changelog
 * **v0.2** (2026-03-04)
+  * Enlarged the via holes for the magnet wire, allowing the use of thicker 1.0 mm enamelled copper wire.
   * Relocated the solder pads for the core windings to allow for better wire routing and alignment.
   * Added a contact pad and enlarged the antenna radiator mounting hole to M3 size. This allows the radiator wire to be easily attached using an M3 ring terminal, a screw, and a wing nut.
 * **v0.1** (2026-02-24)
