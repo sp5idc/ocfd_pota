@@ -91,6 +91,13 @@ If you want to get this board manufactured (e.g., at JLCPCB, PCBWay), follow the
 2. Upload this file on your chosen PCB manufacturer's website.
 3. Select the standard board thickness (**1.6 mm**) and standard copper weight (**1 oz** / 35 µm). The PCB has properly sized traces and pads for these parameters.
 
+## Changelog
+* **v0.2** (2026-03-04)
+  * Relocated the solder pads for the core windings to allow for better wire routing and alignment.
+  * Added a contact pad and enlarged the antenna radiator mounting hole to M3 size. This allows the radiator wire to be easily attached using an M3 ring terminal, a screw, and a wing nut.
+* **v0.1** (2026-02-24)
+  * Initial public release.
+    
 ## License
 Copyright 2026 Maciej Chmielewski SP5IDC
 
