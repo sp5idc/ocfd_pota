@@ -93,6 +93,7 @@ Jeśli chcesz wyprodukować tę płytkę (np. w serwisie JLCPCB, PCBWay), postę
 
 ## Historia wersji (Changelog)
 * **v0.2** (2026-03-04)
+  * Powiększenie otworów na drut nawojowy, co umożliwia bezproblemowe użycie grubszego drutu o średnicy 1 mm.
   * Zmiana lokalizacji pól lutowniczych dla uzwojeń rdzeni w celu lepszego i wygodniejszego ułożenia drutu.
   * Dodanie pola kontaktowego i powiększenie otworu na promiennik anteny do rozmiaru M3. Umożliwia to trwałe i wygodne mocowanie promiennika za pomocą konektora oczkowego, śruby M3 i nakrętki motylkowej.
 * **v0.1** (2026-02-24)
