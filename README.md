@@ -59,9 +59,10 @@ Soldering the correct wire ends to the correct pads is critical for the balun to
 ![PCB Front](images/2D_ocfd_pota_front_small.jpg)
 
 The PCB silkscreen uses the following nomenclature:
-* **T1A1** - Transformer 1, Wire A, End 1
-* **T1A2** - Transformer 1, Wire A, End 2 (the opposite end of the same Wire A)
-* **T1B1** - Transformer 1, Wire B, End 1
+* **T1-1A** - Transformer 1, Wire 1, End A
+* **T1-2A** - Transformer 1, Wire 2, End A
+* **T1-1B** - Transformer 1, Wire 1, End B (the opposite end of the same Wire 1)
+* **T2-2B** - Transformer 1, Wire 2, End B
 * ...
 
 On the rear side of the PCB, there are two pads where the antenna radiator wires should be soldered. Adjacent to these pads are strain-relief holes through which the radiator wires must be threaded.
