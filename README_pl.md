@@ -59,9 +59,10 @@ Odpowiednie przylutowanie końcówek drutów we właściwe pola ma krytyczne zna
 ![PCB Front](images/2D_ocfd_pota_front_small.jpg)
 
 Na płytce jest zastosowany opis w postaci:
-* **T1A1** - Rdzeń T1, drut A, koniec 1
-* **T1A2** - Rdzeń T1, drut A, koniec 2 (drugi koniec tego samego drutu A)
-* **T1B1** - Rdzeń T1, drut B, koniec 1
+* **T1-1A** - Rdzeń T1, drut 1, koniec A
+* **T1-2A** - Rdzeń T1, drut 2, koniec A
+* **T1-1B** - Rdzeń T1, drut 1, koniec B (drugi koniec tego samego drutu 1)
+* **T1-2B** - Rdzeń T1, drut 2, koniec B
 * ...
 
 Z tyłu na płytcę znajdują się dwa pady, do których należy przylutować końce promiennika. Przy nich też są otwory przez, które należy promiennik przewlec.
