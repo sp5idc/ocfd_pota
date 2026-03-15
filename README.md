@@ -47,6 +47,7 @@ This is a DIY project; the PCB does not include factory-assembled SMD components
 ### 1. Winding the Cores (Transformers T1 and T2)
 Both cores must be wound identically.
 * Use a bifilar line (preferably two enamelled wires lightly twisted together or running parallel). It is highly recommended to use wires with two different enamel colours to easily identify the lines (e.g., Wire "A" and Wire "B").
+* To wind a single core, prepare two pieces of wire, each 36-40 cm long.
 * Wind an optimal **14 bifilar turns** on each core. Using 0.5 mm wire, these will fit easily, and this number of turns ensures excellent choking impedance on the 40m and 80m bands.
 * Leave about 2-3 cm of wire pigtails and trim the excess.
 * Mechanically remove the enamel/insulation from the wire ends and use a multimeter to identify the corresponding ends of each wire.
