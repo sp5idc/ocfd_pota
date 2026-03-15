@@ -46,8 +46,8 @@ To projekt typu "zrób to sam", płytka nie posiada elementów SMD do montażu f
 
 ### 1. Nawijanie rdzeni (Transformatory T1 i T2)
 Oba rdzenie należy nawinąć identycznie.
-* Użyj linii dwuprzewodowej (najlepiej dwa druty w emalii skręcone lekko ze sobą lub prowadzone równolegle). Można użyć drutów o dwóch różnych kolorach emalii, aby nie pomylić żył (np. drut "A" i drut "B").
 * Do nawinięcia jednego rdzenia przygotuj dwa odcinki drutu o długości 36-40 cm każdy.
+* Użyj linii dwuprzewodowej (najlepiej dwa druty w emalii skręcone lekko ze sobą lub prowadzone równolegle). Można użyć drutów o dwóch różnych kolorach emalii, aby nie pomylić żył (np. drut "A" i drut "B").
 * Nawiń optymalnie **14 zwojów bifilarnych** na każdym z rdzeni. Przy drucie 0.5 mm zmieszczą się one bez problemu, a taka ilość zwojów zapewni świetne parametry na pasmach 40m i 80m.
 * Zostaw po 2-3 cm drutu, resztę odetnij.
 * Usuń np mechanicznie emalię z końcówek drutu, określ sobie multimetrem końće drutów.
